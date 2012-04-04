@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = "achiever"
   s.version     = "1.0.0"
-  s.author      = "Scott Raio"
-  s.email       = "scottraio@gmail.com"
-  s.homepage    = "http://github.com/scottraio/achiever"
+  s.author      = "Eric Raio"
+  s.email       = "ericraio@gmail.com"
+  s.homepage    = "http://github.com/ericraio/achiever"
   s.summary     = "Achiever is a simple way to add achievements into your rails application."
   s.description = "Achiever is a simple way to add achievements into your rails application."
 
